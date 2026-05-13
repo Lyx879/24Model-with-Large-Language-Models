@@ -1,1 +1,2 @@
 # 24Model-with-Large-Language-Models
+This repository contains raw accident case data along with expert-annotated gold standards, intended for multi-label accident analysis research. The raw accident cases provide real-world scenarios, while the expert annotations serve as the reference for model training and evaluation, enabling the assessment of large language models (LLMs) in accurately and consistently identifying accident causes.
